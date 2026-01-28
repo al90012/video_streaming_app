@@ -57,3 +57,7 @@ This project consists of a Flask backend and a React Native (Expo) frontend.
 - **JWT Auth**: Secure user registration and login.
 - **Dashboard**: Lists exactly 2 active videos.
 - **Streaming**: Masks actual YouTube links via backend proxy/abstraction.
+
+## 📹 Loom Demo Video
+Watch the 3-minute walkthrough here:  
+👉 [https://www.loom.com/share/YOUR-LOOM-LINK](https://www.loom.com/share/826f14a7058343d887e63ddf08427f28)
